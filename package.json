@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name": "adeniyi taofik",
+		"url": "https://freecodecamp.org",
+		"email": "bidemi64@gmail.com"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
