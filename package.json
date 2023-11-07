@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "taofik",
+	"description": "A project to learn step by step api development",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
